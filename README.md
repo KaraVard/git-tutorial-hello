@@ -1,3 +1,3 @@
 # git-tutorial-hell
-#my change
+#Simple feature 
 my first repo
